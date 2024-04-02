@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 h1, h2{
   font-size: 60px;
   text-align: center;
   font-family: Arial;
   margin: 10px;
+=======
+
+h1, h2{
+  font-size: 60px;
+  text-align: center;
+  font-family: Arial;margin: 10px;
+>>>>>>> 4cf937c (ganti jadi game)
 }
 
 .container{
@@ -12,7 +20,11 @@ h1, h2{
 }
 
 .container:active{
+<<<<<<< HEAD
   cursor: url(../img/hammer.png), auto;
+=======
+  cursor: url(../image/hammer.png), auto;
+>>>>>>> 4cf937c (ganti jadi game)
 }
 .tanah{
   width: 200px;
@@ -50,4 +62,9 @@ button{
 
 .tanah.muncul .tikus {
   top: -15px;
+<<<<<<< HEAD
 }
+=======
+
+}
+>>>>>>> 4cf937c (ganti jadi game)
