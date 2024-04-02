@@ -1,33 +1,8 @@
-<<<<<<< HEAD
-.slider h3,
-.slider h5,
-.clients h3{
-      text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
-}
-
-.parallax-container {
-    height: 20%;
-}
-
-.parallax img{
-    filter: grayscale(1);
-    opacity: 0.5 !important;
-}
-
-.clients img {
-    max-width: 150px;
-    filter: drop-shadow(1px 1px 1px rgba(0,0,0,0.8));
-}
-
-section, footer{
-    padding: 20px 0;
-}
-
-=======
 h1, h2{
   font-size: 60px;
   text-align: center;
-  font-family: Arial;margin: 10px;
+  font-family: Arial;
+  margin: 10px;
 }
 
 .container{
@@ -57,7 +32,7 @@ button{
   display: block;
   width: 200px;
   height: 100px;
-  background: url(../img/tanah.png) bottom center no-repeat;
+  background: url(../image/tanah.png) bottom center no-repeat;
   background-size: 80%;
   position: absolute;
   bottom: -25px;
@@ -66,7 +41,7 @@ button{
 .tikus{
   width: 100%;
   height: 100%;
-  background: url(../img/tikus.png) bottom center no-repeat;
+  background: url(../image/tikus.png) bottom center no-repeat;
   background-size: 60%;
   position: absolute;
   top: 100px;
@@ -75,6 +50,4 @@ button{
 
 .tanah.muncul .tikus {
   top: -15px;
-
 }
->>>>>>> 83569e7 (tambah game)
